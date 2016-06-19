@@ -72,7 +72,7 @@ body {
   }
 }
 .skin-blue .main-header .logo {
-  background-color: #367fa9;
+  background-color: #C74A8D;
   color: #ffffff;
   border-bottom: 0 solid transparent;
 }
@@ -105,7 +105,7 @@ body {
 .skin-blue .sidebar-menu > li.active > a {
   color: #ffffff;
   background: #1e282c;
-  border-left-color: #3c8dbc;
+  border-left-color: #C74A8D;
 }
 .skin-blue .sidebar-menu > li > .treeview-menu {
   margin: 0 1px;
